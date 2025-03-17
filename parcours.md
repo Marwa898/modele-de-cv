@@ -1,67 +1,63 @@
 ---
 layout: page
 title: Mon parcours
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
-menubar: menu_bar
+
+
 download_cv: assets/docs/Template_CV.pdf
 ---
 
-## Formation 
+## Formation
 
-`20XX – 20XX`
-**Nom de votre école**
+`2022
+Fondation Attijari wafabank
+Atelier de dessins
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
 
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
-* Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+
+`2024 – 2029
+**Ecole d'ingénieurie Unilasalle Amiens - Elève ingénieur en système numérique et génie énergétique
+
+
+`2024`
+Bac sciences physiques, mention très bien, Casablanca,Maroc
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2025`En cours **Projet d’étude – Unilasalle Amiens**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 3 étudiants_
+* Réaliser un dock switch (onshape,machine de laser,3D)
+* Programmer le jeu d'awalé en C (code blocks)
+* Préparev une carte électronique (Kicad)
 
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
+`2024` **Emploi étudiant**
 
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+Mc Donald's, Casablanca, Maroc
+* Accueil des clients 
+* Prise des commandes en caisse
+* Vigilance sur la qualité et la rapidité du service
 
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* Arabe: langue maternelle
+* Francais: B2
+* Allemand: A2
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+*Code blocks
+*Python
 
-Autres
-* Autres diplômes ou permis spéciaux
+
 
 ## Centres d’intérêt
 
 Loisirs 1
-* Description 
-* Description 
+* Regarder le foot 
+* Voyages
 
-Loisirs 1
-* Description 
-* Description 
+
+ 
